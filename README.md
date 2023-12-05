@@ -13,4 +13,12 @@ In the following [Repository](https://github.com/ik4vrb/ds-4002-team-aai-project
 
 Additionally, you can also find all the files used by the teacher in the [Example](https://github.com/AnaCordova1/CS2_Case_Study-DS4002-/tree/main/Example) folder.
 
+## Helpful Links:
+
+The following articles might give you ideas and inspire you a little bit more. 
+  1. [Hook Article](https://www.esu.edu/writing-studio/guides/hook.cfm)
+  2. [College Essay Article](https://www.collegevine.com/faq/3202/how-important-is-it-to-have-a-hook-in-college-applications#:~:text=I%20understand%20your%20curiosity%20about,memorable%20to%20the%20admissions%20committee.)
+  3. [College Essay Article 2](https://counselors.collegeboard.org/college-application/essay#:~:text=The%20essay%20is%20an%20opportunity,write%20an%20application%2Dworthy%20essay.)
+  4. [Sentiment Analysis Article](https://monkeylearn.com/sentiment-analysis/)
+
 
